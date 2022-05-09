@@ -51,7 +51,7 @@ docker rm cs
 
 # Attributions
 
-This project is based on [counter-strike-docker](https://github.com/artem-panchenko/counter-strike-docker), developed by [Artem Panchenko](https://github.com/artem-panchenko).
+This project is based on [Artem Panchenko](https://github.com/artem-panchenko).
 
 ## Changes from original project
 
